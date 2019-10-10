@@ -1,0 +1,65 @@
+baseURL = "https://polishcityclub.github.io/website/"
+languageCode = "en-us"
+title = "Polish City club"
+themesDir = "themes"
+theme = "ananke"
+publishDir = "docs"
+pcc_logo = "/images/pcc_circle.png"
+custom_css = ["css/custom.css"]
+
+[params]
+    facebook = "https://www.facebook.com/PolishCityClub/"
+    twitter = "https://twitter.com/PolishCityClub"
+    linkedin = "https://www.linkedin.com/company/polish-city-club"
+    featured_image = "/images/bg-1.jpeg"
+
+[menu]
+
+    [[menu.main]]
+        name = "Who we are"
+        weight = -45
+        identifier = "about"
+        url = "/about/"
+    [[menu.main]]
+        name = "What we do"
+        weight = -40
+        identifier = "activities"
+        url = "/activities/"
+    [[menu.main]]
+        name = "Contact"
+        weight = -1
+        identifier = "contact"
+        url = "/contact/"
+    [[menu.main]]
+        name = "Join us"
+        weight = -4
+        identifier = "join-us"
+        url = "/join-us/"
+    [[menu.main]]
+        name = "Press"
+        weight = -5
+        identifier = "press"
+        url = "/press/"
+    [[menu.main]]
+        name = "Members"
+        weight = -30
+        identifier = "members"
+        url = "/members/"
+    [[menu.main]]
+        parent = "members"
+        name = "Structure"
+        weight = -110
+        identifier = "structure"
+        url = "/structure/"
+    [[menu.main]]
+        parent = "members"
+        name = "Membership"
+        weight = -110
+        identifier = "membership"
+        url = "/membership/"
+    [[menu.main]]
+        parent = "members"
+        name = "Honorary Members"
+        weight = -110
+        identifier = "honorary"
+        url = "/honorary/"

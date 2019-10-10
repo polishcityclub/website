@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Events on Polish City club</title>
+    <link>https://polishcityclub.github.io/website/events/</link>
+    <description>Recent content in Events on Polish City club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://polishcityclub.github.io/website/events/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Event with Greg Hands MP</title>
+      <link>https://polishcityclub.github.io/website/events/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.github.io/website/events/1/</guid>
+      <description>On 6th June we will have a PCC event at the House of Commons with Greg Hands</description>
+    </item>
+    
+    <item>
+      <title>Henry Balani on Blockchain</title>
+      <link>https://polishcityclub.github.io/website/events/3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.github.io/website/events/3/</guid>
+      <description>On 4th March we will have the pleasure of speaking to Henry Balani about why the Blockchain matters – and why it is different from Bitcoin</description>
+    </item>
+    
+    <item>
+      <title>PCC Event with Ania Lichota Executive Coach &amp; AGM</title>
+      <link>https://polishcityclub.github.io/website/events/2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.github.io/website/events/2/</guid>
+      <description>On 20th June we will start with our Annual General Meeting.</description>
+    </item>
+    
+    <item>
+      <title>Tomasz Czechowicz (MCI)</title>
+      <link>https://polishcityclub.github.io/website/events/4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.github.io/website/events/4/</guid>
+      <description>On 31st October we will have the pleasure of speaking to Tomasz Czechowicz</description>
+    </item>
+    
+  </channel>
+</rss>

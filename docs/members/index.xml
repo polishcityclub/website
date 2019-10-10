@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Our Members on Polish City club</title>
+    <link>https://pawelsawicz.github.io/pcc-website/members/</link>
+    <description>Recent content in Our Members on Polish City club</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pawelsawicz.github.io/pcc-website/members/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Honorary Members</title>
+      <link>https://pawelsawicz.github.io/pcc-website/members/honorary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/members/honorary/</guid>
+      <description>Count Adam Zamoyski Historian, author of books on Polish history
+George Dobry CBE, QC A distinguished English Judge
+Mr Grzegorz Król Managing Director, Nestle UK HE
+Mr Jan Krzysztof Bielecki Former Prime Minister of Poland, President of Pekao SA, Warsaw, Poland
+Mr Jean Lemierre Former President of the European Bank for Reconstruction and Development
+Mr Kazimierz Marcinkiewicz Former Prime Minister of Poland; Director for Poland/Albania/Bulgaria, European Bank for Reconstruction and Development</description>
+    </item>
+    
+    <item>
+      <title>PCC structure</title>
+      <link>https://pawelsawicz.github.io/pcc-website/members/structure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://pawelsawicz.github.io/pcc-website/members/structure/</guid>
+      <description>PCC management team: - Jakub Molski – Presient</description>
+    </item>
+    
+  </channel>
+</rss>
