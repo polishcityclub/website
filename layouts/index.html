@@ -26,6 +26,17 @@ pages. */}}
       </section>
 
       <h1 class="flex-none">
+        Upcoming events
+      </h1>
+      <section class="w-90 mw8">
+          {{ range where .Site.Pages "Params.upcoming" "true" }}
+          <div class="relative w-100 mb4">
+            {{ partial "summary-with-image.html" . }}
+          </div>
+          {{ end }}
+      </section>
+
+      <h1 class="flex-none">
         Past events
       </h1>
       {{ end }}
