@@ -6,14 +6,24 @@
     <description>Recent content in Events on Polish City club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://polishcityclub.org/events/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>PCC Speaker Series with Sonia Wedrychowicz</title>
+      <link>https://polishcityclub.org/events/5/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/5/</guid>
+      <description>On 2nd December we will have the pleasure of speaking to Sonia Wedrychowicz</description>
+    </item>
+    
+    <item>
       <title>Event with Greg Hands MP</title>
       <link>https://polishcityclub.org/events/1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://polishcityclub.org/events/1/</guid>
       <description>On 6th June we will have a PCC event at the House of Commons with Greg Hands</description>
@@ -22,7 +32,7 @@
     <item>
       <title>Henry Balani on Blockchain</title>
       <link>https://polishcityclub.org/events/3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://polishcityclub.org/events/3/</guid>
       <description>On 4th March we will have the pleasure of speaking to Henry Balani about why the Blockchain matters – and why it is different from Bitcoin</description>
@@ -31,7 +41,7 @@
     <item>
       <title>Meeting with Zbigniew Jagiello, CEO of Bank PKO BP</title>
       <link>https://polishcityclub.org/events/6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://polishcityclub.org/events/6/</guid>
       <description>On 24th September we will have the pleasure of speaking to Zbigniew Jagiello</description>
@@ -40,25 +50,16 @@
     <item>
       <title>PCC Event with Ania Lichota Executive Coach &amp; AGM</title>
       <link>https://polishcityclub.org/events/2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://polishcityclub.org/events/2/</guid>
       <description>On 20th June we will start with our Annual General Meeting.</description>
     </item>
     
     <item>
-      <title>PCC Speaker Series with Sonia Wedrychowicz</title>
-      <link>https://polishcityclub.org/events/5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/5/</guid>
-      <description>On 2nd December we will have the pleasure of speaking to Sonia Wedrychowicz</description>
-    </item>
-    
-    <item>
       <title>Tomasz Czechowicz (MCI)</title>
       <link>https://polishcityclub.org/events/4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://polishcityclub.org/events/4/</guid>
       <description>On 31st October we will have the pleasure of speaking to Tomasz Czechowicz</description>

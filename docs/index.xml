@@ -6,9 +6,64 @@
     <description>Recent content in Polish City Club on Polish City club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://polishcityclub.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PCC Speaker Series with Sonia Wedrychowicz</title>
+      <link>https://polishcityclub.org/events/5/</link>
+      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/5/</guid>
+      <description>On 2nd December we will have the pleasure of speaking to Sonia Wedrychowicz</description>
+    </item>
+    
+    <item>
+      <title>Event with Greg Hands MP</title>
+      <link>https://polishcityclub.org/events/1/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/1/</guid>
+      <description>On 6th June we will have a PCC event at the House of Commons with Greg Hands</description>
+    </item>
+    
+    <item>
+      <title>Henry Balani on Blockchain</title>
+      <link>https://polishcityclub.org/events/3/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/3/</guid>
+      <description>On 4th March we will have the pleasure of speaking to Henry Balani about why the Blockchain matters – and why it is different from Bitcoin</description>
+    </item>
+    
+    <item>
+      <title>Meeting with Zbigniew Jagiello, CEO of Bank PKO BP</title>
+      <link>https://polishcityclub.org/events/6/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/6/</guid>
+      <description>On 24th September we will have the pleasure of speaking to Zbigniew Jagiello</description>
+    </item>
+    
+    <item>
+      <title>PCC Event with Ania Lichota Executive Coach &amp; AGM</title>
+      <link>https://polishcityclub.org/events/2/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/2/</guid>
+      <description>On 20th June we will start with our Annual General Meeting.</description>
+    </item>
+    
+    <item>
+      <title>Tomasz Czechowicz (MCI)</title>
+      <link>https://polishcityclub.org/events/4/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/4/</guid>
+      <description>On 31st October we will have the pleasure of speaking to Tomasz Czechowicz</description>
+    </item>
     
     <item>
       <title>Contact</title>
@@ -19,24 +74,6 @@
       <description>Contact us if you:
  would like to join our club are a Polish society, club or an organization wishing to work with us on an idea or an initiative you find compelling are a Polish company looking to expand to the UK are a Polish entrepreneur looking to raise funding in London  We look forward to hearing from you!
 You can contact us at polishcityclub.org@gmail.com or leave a message using the contact form below.</description>
-    </item>
-    
-    <item>
-      <title>Event with Greg Hands MP</title>
-      <link>https://polishcityclub.org/events/1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/1/</guid>
-      <description>On 6th June we will have a PCC event at the House of Commons with Greg Hands</description>
-    </item>
-    
-    <item>
-      <title>Henry Balani on Blockchain</title>
-      <link>https://polishcityclub.org/events/3/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/3/</guid>
-      <description>On 4th March we will have the pleasure of speaking to Henry Balani about why the Blockchain matters – and why it is different from Bitcoin</description>
     </item>
     
     <item>
@@ -64,15 +101,6 @@ Mr Kazimierz Marcinkiewicz Former Prime Minister of Poland; Director for Poland/
     </item>
     
     <item>
-      <title>Meeting with Zbigniew Jagiello, CEO of Bank PKO BP</title>
-      <link>https://polishcityclub.org/events/6/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/6/</guid>
-      <description>On 24th September we will have the pleasure of speaking to Zbigniew Jagiello</description>
-    </item>
-    
-    <item>
       <title>Members</title>
       <link>https://polishcityclub.org/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -90,24 +118,6 @@ The Club membership offers our members a wide range of benefits that include an 
       <guid>https://polishcityclub.org/membership/</guid>
       <description>You can now pay your membership fee for 2019 through PayPal. Click the link below and follow the steps.
  </description>
-    </item>
-    
-    <item>
-      <title>PCC Event with Ania Lichota Executive Coach &amp; AGM</title>
-      <link>https://polishcityclub.org/events/2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/2/</guid>
-      <description>On 20th June we will start with our Annual General Meeting.</description>
-    </item>
-    
-    <item>
-      <title>PCC Speaker Series with Sonia Wedrychowicz</title>
-      <link>https://polishcityclub.org/events/5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/5/</guid>
-      <description>On 2nd December we will have the pleasure of speaking to Sonia Wedrychowicz</description>
     </item>
     
     <item>
@@ -138,15 +148,6 @@ http://www.nature.com/news/the-future-of-cryptocurrencies-bitcoin-and-beyond-1.1
 Dziennik Gazeta Prawna, 12.09.2015 Korpomafia znad Wisły: Prezesami Microsoftu i Google’a wkrótce będą Polacy?
 http://biznes.gazetaprawna.pl/artykuly/893394,korpomafia-znad-wisly-prezesami-microsoftu-i-google-a-wkrotce-beda-polacy.html
 Tok FM, 27.08.2015 Prezes PCC w audycji ‘Co sie stalo?’</description>
-    </item>
-    
-    <item>
-      <title>Tomasz Czechowicz (MCI)</title>
-      <link>https://polishcityclub.org/events/4/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/4/</guid>
-      <description>On 31st October we will have the pleasure of speaking to Tomasz Czechowicz</description>
     </item>
     
     <item>
