@@ -5,7 +5,7 @@ featured_image: '/images/bg-2.jpeg'
 type: page
 ---
 
-You can now pay your membership fee for 2019 through PayPal. Click the link below and follow the steps.
+You can now pay your membership fee for 2020 through PayPal. Click the link below and follow the steps.
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top"><input name="cmd" type="hidden" value="_s-xclick" />
           <input name="hosted_button_id" type="hidden" value="QG387G2ABA29Q" />
