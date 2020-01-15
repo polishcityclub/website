@@ -18,6 +18,12 @@ The objectives of our Club include:
 - Promoting awareness among the business community at large of economic, political and other developments related to Poland
 - Cooperating with the governmental bodies and think-tanks to represent Polish interests in the UK
 
+### About us
+
 {{<youtube id="dfxG-gpsQSE">}}
+
+### PCC turns 15
+
+{{<youtube id="RPcvrHN25zM">}}
 
 <!-- [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/dfxG-gpsQSE/0.jpg)](https://www.youtube.com/watch?v=dfxG-gpsQSE) -->
