@@ -6,6 +6,7 @@ theme = "ananke"
 publishDir = "docs"
 pcc_logo = "/images/pcc_circle.png"
 custom_css = ["css/custom.css"]
+enableRobotsTXT = true
 
 [params]
     facebook = "https://www.facebook.com/PolishCityClub/"
