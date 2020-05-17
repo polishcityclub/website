@@ -1,1 +1,6 @@
 User-agent: *
+
+Sitemap: https://polishcityclub.org/sitemap.xml
+
+Disallow: /404.html
+Disallow: /events/
