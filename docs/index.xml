@@ -6,10 +6,19 @@
     <description>Recent content in Polish City Club on Polish City club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://polishcityclub.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PCC Speaker Series: w/ Dr Beata Javorcik &amp; Dr Marcin Piatkowski</title>
+      <link>https://polishcityclub.org/events/13/</link>
+      <pubDate>Wed, 10 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/13/</guid>
+      <description>On 10th June, in cooperation with the Embassy of the Republic of Poland in London, we will be hosting an online event with two preeminent economists, Dr Beata Javorcik (EBRD) and Dr Marcin Piatkowski (World Bank).</description>
+    </item>
     
     <item>
       <title>PCC Speaker Series with John Studzinski CBE</title>
@@ -162,15 +171,6 @@ The Club membership offers our members a wide range of benefits that include an 
       
       <guid>https://polishcityclub.org/membership/</guid>
       <description>You can now pay your membership fee for 2020 through PayPal. Click the link below and follow the steps.</description>
-    </item>
-    
-    <item>
-      <title>PCC Speaker Series: w/ Dr Beata Javorcik &amp; Dr Marcin Piatkowski</title>
-      <link>https://polishcityclub.org/events/13/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/13/</guid>
-      <description>On 10th June, in cooperation with the Embassy of the Republic of Poland in London, we will be hosting an online event with two preeminent economists, Dr Beata Javorcik (EBRD) and Dr Marcin Piatkowski (World Bank).</description>
     </item>
     
     <item>
