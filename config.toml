@@ -64,3 +64,8 @@ enableRobotsTXT = true
         weight = -110
         identifier = "honorary"
         url = "/honorary/"
+    [[menu.main]]
+        name = "Inspire"
+        weight = -90
+        identifier = "inspire"
+        url = "/inspire/"
