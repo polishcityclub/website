@@ -27,6 +27,11 @@ enableRobotsTXT = true
         identifier = "activities"
         url = "/activities/"
     [[menu.main]]
+        name = "Mentoring"
+        weight = -35
+        identifier = "mentoring"
+        url = "/mentoring/"
+    [[menu.main]]
         name = "Contact"
         weight = -1
         identifier = "contact"
@@ -64,8 +69,3 @@ enableRobotsTXT = true
         weight = -110
         identifier = "honorary"
         url = "/honorary/"
-    [[menu.main]]
-        name = "Inspire"
-        weight = -90
-        identifier = "inspire"
-        url = "/inspire/"
