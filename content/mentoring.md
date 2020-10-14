@@ -27,3 +27,5 @@ In order to apply for the PCC Career Mentoring Scheme, you will need to complete
 PCC mentors are the following Board Members: [Roch Głowacki](https://www.linkedin.com/in/roch-glowacki/), [Rafał Libera](https://www.linkedin.com/in/rafal-libera-a207b52/), [Martyna Polak](https://www.linkedin.com/in/martynapolak/), [Łukasz Rzeczkowski](https://www.linkedin.com/in/lukasz-rzeczkowski/), [Dawid Szymanek](https://www.linkedin.com/in/dawid-szymanek/) and [Paweł Sawicz](https://www.linkedin.com/in/pawel-sawicz-6171a051/). Please bear in mind that we only have a certain number of mentors available within a chosen industry and whilst we will try to match your application with a mentor with the most relevant experience, this scheme is very popular and we may not be able to accommodate each request.
 
 {{< inspire-form >}}
+
+For more information, please see our [Mentoring Handbook](/PCC-Career.pdf)
