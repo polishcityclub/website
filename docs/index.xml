@@ -179,7 +179,7 @@ The Club membership offers our members a wide range of benefits that include an 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://polishcityclub.org/membership/</guid>
-      <description>You can now pay your membership fee for 2020 through PayPal. Click the link below and follow the steps.
+      <description>You can now pay your membership fee for 2021 through PayPal. Click the link below and follow the steps.
      function initPayPalButton() { paypal.Buttons({ style: { shape: &#39;rect&#39;, color: &#39;gold&#39;, layout: &#39;vertical&#39;, label: &#39;paypal&#39;, }, createOrder: function(data, actions) { return actions.order.create({ purchase_units: [{&#34;description&#34;:&#34;Polish City Club Membership&#34;,&#34;amount&#34;:{&#34;currency_code&#34;:&#34;GBP&#34;,&#34;value&#34;:130}}] }); }, onApprove: function(data, actions) { return actions.order.capture().then(function(details) { alert(&#39;Transaction completed by &#39; + details.payer.name.given_name + &#39;!&#39;); }); }, onError: function(err) { console.</description>
     </item>
     
