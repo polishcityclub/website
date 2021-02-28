@@ -14,7 +14,7 @@ The scheme is open to all Polish students studying in the United Kingdom. Priori
 
 ## How do I apply?
 
-In order to apply for the PCC Career Mentoring Scheme, you will need to complete the form available [here](https://pawelsawicz.typeform.com/to/jlizIi). As part of the process, you will be expected to provide answers to three questions and attach a copy of your CV. Your responses should be no longer than 150 words per question. Your applications will be assessed based on their quality, motivation and commitment to the scheme. Based on your career interest and the availability of suitable mentors, you may be transferred onto an alternative cycle.
+Second round of applications will open soon. Please follow us on [LinkedIn](https://www.linkedin.com/company/polish-city-club/mycompany) and [Facebook](https://www.facebook.com/PolishCityClub) to be the first one to know!
 
 ### Questions
 
@@ -25,7 +25,5 @@ In order to apply for the PCC Career Mentoring Scheme, you will need to complete
 ## Who are our mentors?
 
 PCC mentors are the following Board Members: [Roch Głowacki](https://www.linkedin.com/in/roch-glowacki/), [Rafał Libera](https://www.linkedin.com/in/rafal-libera-a207b52/), [Martyna Polak](https://www.linkedin.com/in/martynapolak/), [Łukasz Rzeczkowski](https://www.linkedin.com/in/lukasz-rzeczkowski/), [Dawid Szymanek](https://www.linkedin.com/in/dawid-szymanek/) and [Paweł Sawicz](https://www.linkedin.com/in/pawel-sawicz-6171a051/). Please bear in mind that we only have a certain number of mentors available within a chosen industry and whilst we will try to match your application with a mentor with the most relevant experience, this scheme is very popular and we may not be able to accommodate each request.
-
-{{< inspire-form >}}
 
 For more information, please see our [Mentoring Handbook](/PCC-Career.pdf)
