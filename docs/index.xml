@@ -6,15 +6,24 @@
     <description>Recent content in Polish City Club on Polish City club</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://polishcityclub.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Event with Greg Hands MP</title>
+      <link>https://polishcityclub.org/events/16/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://polishcityclub.org/events/16/</guid>
+      <description>On 15th December we will have a PCC event with Greg Hands</description>
+    </item>
+    
+    <item>
       <title>PCC Debate - climate change &amp; energy transition in the times of COVID</title>
       <link>https://polishcityclub.org/events/15/</link>
-      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Sep 2020 00:00:00 +0000</pubDate>
       
       <guid>https://polishcityclub.org/events/15/</guid>
       <description>Climate change, net-zero emissions, energy transition - where do we go from here? Join us to hear from preeminent experts and find out!</description>
