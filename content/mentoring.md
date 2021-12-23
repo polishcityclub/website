@@ -14,7 +14,7 @@ The scheme is open to all Polish students studying in the United Kingdom. Priori
 
 ## How do I apply?
 
-Second round of applications will open soon. Please follow us on [LinkedIn](https://www.linkedin.com/company/polish-city-club/mycompany) and [Facebook](https://www.facebook.com/PolishCityClub) to be the first one to know!
+In order to apply for the PCC Career Mentoring Scheme, you will need to complete the form available [here](https://form.typeform.com/to/Bv63MwPf). As part of the process, you will be expected to provide answers to three questions and attach a copy of your CV. Your responses should be no longer than 150 words per question. Your applications will be assessed based on their quality, motivation and commitment to the scheme. Based on your career interest and the availability of suitable mentors, you may be transferred onto an alternative cycle.
 
 ### Questions
 
