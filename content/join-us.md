@@ -13,7 +13,7 @@ How to join us? Members who join the Polish City Club meet the following criteri
 - Have a university degree or are directors in a UK company
 - Have a few years of experience working as a professional in the UK
 - Agree with the aims and objectives of the Club, as set out in the statute
-- Pay an annual membership fee of £130
+- Pay an annual membership fee of £150
 
 If you meet the above criteria and would like to join please fill our contact form. We will come back to you shortly with further details. Successful candidates will be asked to pay the annual membership fee of £130, paid to HSBC Sort code: 400317, ACCOUNT number: 61645552. Although the Polish City Club is based in London, membership is not confined to residents of the United Kingdom. Should you have any questions contact us at polishcityclub.org@gmail.com
 
