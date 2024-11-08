@@ -6,11 +6,11 @@ featured_image: '/images/bg-1.jpeg'
 type: page
 ---
 
-The PCC career mentoring programme is designed to support Polish students in the UK and provide them with support and guidance in respect of their career goals and job applications, and empower them to identify and take their next step. 
+The PCC career mentoring programme is designed to support Central Eastern European students in the UK and provide them with support and guidance in respect of their career goals and job applications, and empower them to identify and take their next step. 
 
 ## Who can apply ?
 
-The scheme is open to all Polish students studying in the United Kingdom. Priority will be given to students in their penultimate or final year of their undergraduate degree, recent graduates and current postgraduate students. PCC is committed to delivering the best mentoring experience for its mentees. Whilst we encourage applications from students of all areas of study, given the expertise of our current mentors, we are best suited to assist mentees with interest in pursuing a career in consultancy, banking, business, entrepre-neurship and/or law.
+The scheme is open to all CEE students studying in the United Kingdom. Priority will be given to students in their penultimate or final year of their undergraduate degree, recent graduates and current postgraduate students. PCC is committed to delivering the best mentoring experience for its mentees. Whilst we encourage applications from students of all areas of study, given the expertise of our current mentors, we are best suited to assist mentees with interest in pursuing a career in consultancy, banking, business, entrepre-neurship and/or law.
 
 ## How do I apply?
 
